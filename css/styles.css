@@ -141,6 +141,7 @@ a {
 /*  Footer */
 
 .footer__indie {
+    background-color: #6852fa81;
     display: flex;
     padding-top: 2.5rem;
     flex-direction: column;
