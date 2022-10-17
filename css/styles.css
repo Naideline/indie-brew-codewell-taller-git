@@ -219,6 +219,7 @@ a {
 .form__account form {
     display: flex;
     flex-direction: column;
+    color: #c9ba37;
 }
 
 form label{
