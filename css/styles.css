@@ -147,6 +147,7 @@ a {
 }
 
 .footer__nav {
+    background-color:#cdcdcd;
     display: flex;
     justify-content: space-between;
     padding: 2.375rem 0;
