@@ -24,6 +24,7 @@ h3 {
 
 h4 {
     font-size: 1.25rem;
+    color: #c9ba37;
 }
 
 p{
@@ -60,7 +61,7 @@ a {
 }
 
 .button__purple {
-    background-color: #664EFC;
+    background-color: #c9ba37;
     color: #ffff;
     border-radius: 0.3125rem;
     padding: 1rem;
