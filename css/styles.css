@@ -141,12 +141,14 @@ a {
 /*  Footer */
 
 .footer__indie {
+    background-color: #6852fa81;
     display: flex;
     padding-top: 2.5rem;
     flex-direction: column;
 }
 
 .footer__nav {
+    background-color:#cdcdcd;
     display: flex;
     justify-content: space-between;
     padding: 2.375rem 0;
